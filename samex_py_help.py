@@ -23,6 +23,9 @@ def help(command):
        print("16.set password")
        print("17.remove password")
        print("18.secret files")
+       print("19.emdir")
+       print("20.showalpha")
+       print("EXTENSIONS NOT SHOWN")
    if command=="secret files":
       print("Lets you write and view encrypted files.")
    if command=="remove password":
@@ -59,6 +62,10 @@ def help(command):
        print("Typing this will rename the file.")
    if command=="change password":
       print("Type this to change your password.") 
+   if command=="emdir":
+      print("Type this to wipe a folder.")
+   if command=="showalpha":
+      print("shows files of a folder alphabetically.")
 while True:
  cmd=input() 
  help(cmd)      
