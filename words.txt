@@ -33,3 +33,4 @@ decrlvl
 suru [command]
 rmdir
 len
+uptime
