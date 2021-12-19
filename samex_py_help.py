@@ -4,6 +4,7 @@ Created on Mon Jul 26 21:23:02 2021
 @author: Sameer Achhab
 """
 print("Enter a command to learn more about it. Enter all to see all commands. ")
+print("All the commands here exist but new commands have been added and this manual is not relevant anymore.")
 def help(command):
    if command=="all":
        print("1.shutdown")
