@@ -34,3 +34,5 @@ suru [command]
 rmdir
 len
 uptime
+zip
+unzip
