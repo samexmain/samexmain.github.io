@@ -33,6 +33,7 @@ decrlvl
 suru [command]
 rmdir
 len
+fprint
 uptime
 zip
 unzip
